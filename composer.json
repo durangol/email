@@ -1,5 +1,6 @@
 {
-    "name": "shadowhand/email",
+    "name": "durangol/email",
+    "type": "kohana-module",
     "description": "Email helper for Kohana, uses Swiftmailer",
     "keywords": ["kohana", "email", "helper", "module", "library", "swiftmailer"],
     "homepage": "http://github.com/shadowhand/email",
